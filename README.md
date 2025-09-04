@@ -1,5 +1,5 @@
 # dqn_chrome_dino
-Playing Chrome Dino Game with DQN
+Playing Chrome Dino Game with DQN, using python 3.10.18
 
 ## Training
 
